@@ -5,3 +5,7 @@ Answer: Git provides a structured framework to record the entire evolution of a 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the healthcare field to improve patient diagnoses and treatment plans.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the original history with a new commit, while Rebasing rewrites history to create a linear timeline.
