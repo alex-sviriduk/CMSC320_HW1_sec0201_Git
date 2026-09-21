@@ -9,3 +9,7 @@ Answer: Data science can be applied to the healthcare field to improve patient d
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves the original history with a new commit, while Rebasing rewrites history to create a linear timeline.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Having more free time for gym and sports (I sure hope so).
